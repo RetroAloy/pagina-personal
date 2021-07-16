@@ -1,0 +1,20 @@
+.cabecera {
+	background-color: #4682B4;
+}
+
+#logo {
+	margin: 20px 10px;
+}
+
+#titulo {
+	margin: 20px 10px;
+}
+
+body {
+	background-color: #B0C4DE;
+}
+
+.frase {
+	background-color: #F5F5F5;
+	border-radius: 6px;
+}
